@@ -1,4 +1,4 @@
-# Jogo Gourmet
+# Gourmet Game
 
 Akinator style game, which tries to discover the dish of food that was designed by the player.
 
