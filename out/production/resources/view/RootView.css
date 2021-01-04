@@ -1,0 +1,12 @@
+Label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+Button {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 3, 2, 1;
+}
