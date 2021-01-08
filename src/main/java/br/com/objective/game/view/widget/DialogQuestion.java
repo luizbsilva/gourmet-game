@@ -8,7 +8,7 @@ public class DialogQuestion extends Alert {
 	
 	
 	public DialogQuestion(final String title, final String message) {
-		super(Alert.AlertType.CONFIRMATION);
+		super(AlertType.CONFIRMATION);
 		this.setHeaderText(null);
 		this.setTitle(title);
 		this.setContentText(message);
